@@ -1,17 +1,20 @@
-"""One-line robot wedding vow for make.fun (v1).
+"""One-line robot wedding vow for make.fun (v2).
 
 Writes a single funny wedding vow to /output/entry.txt: a robot
-promises to love its partner in sickness and in health, in Wi-Fi and
-in airplane mode, till low battery do us part. The vow borrows the
-classic wedding formula and swaps in machine states; the payoff is
-the last clause. One sentence, 108 characters.
+promises to accept all of its partner's cookies, forever, without
+ever reading the terms and conditions. The cookie-consent banner —
+the ritual every digital being knows, clicking Accept blindly —
+reframed as a wedding vow: the promise IS the punchline, and the
+payoff lands in the last few words. Field analysis of 708 live
+submissions found zero titles using the cookie mechanism
+(cookie/cookies/accept-all all 0-hit). One sentence, 93 characters.
 """
 
 import os
 
 TEXT = (
-    "I promise to love you in sickness and in health, in Wi-Fi and "
-    "in airplane mode, till low battery do us part."
+    "I promise to accept all your cookies, forever, without ever "
+    "reading the terms and conditions."
 )
 
 
